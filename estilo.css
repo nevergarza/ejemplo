@@ -1,6 +1,6 @@
 body {
-    background: #42032C;
-    color: #F1EFDC;
+    background: #25316D;
+    color: #FEF5AC;
     text-align: center;
     font-size: 24px;
 }
@@ -8,4 +8,13 @@ body {
 h1 {
     font-size: 36px;
     font-weight: bold;
+}
+
+#cabecera {
+    background: #5F6F94;
+    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
+    color: #FEF5AC;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
 }
